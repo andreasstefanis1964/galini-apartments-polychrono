@@ -1491,6 +1491,7 @@ strong {
   align-items: stretch;
   column-gap: 7vw;
   row-gap: 30px;
+  flex-direction: row-reverse;
 }
 .cid-ty7k8P4FXO .col-img {
   width: 57%;
@@ -1599,7 +1600,6 @@ strong {
   align-items: stretch;
   column-gap: 7vw;
   row-gap: 30px;
-  flex-direction: row-reverse;
 }
 .cid-ty7kpyrU4h .col-img {
   width: 57%;
