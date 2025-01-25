@@ -1759,7 +1759,7 @@ strong {
 .cid-ty7lAa5l2p {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #d5d07c;
+  background-color: #095f54;
 }
 .cid-ty7lAa5l2p .mbr-fallback-image.disabled {
   display: none;
@@ -1829,6 +1829,10 @@ strong {
   .cid-ty7lAa5l2p .mbr-text {
     width: 100%;
   }
+}
+.cid-ty7lAa5l2p .mbr-section-subtitle,
+.cid-ty7lAa5l2p .mbr-section-btn {
+  color: #d5d07c;
 }
 .cid-uAW0xw9NOr {
   padding-top: 0rem;
