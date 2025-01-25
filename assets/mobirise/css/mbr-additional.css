@@ -2396,51 +2396,15 @@ strong {
     height: 220px;
   }
 }
-.cid-uAVPg5V3Pr {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #9ab8eb;
-}
-.cid-uAVPg5V3Pr .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-uAVPg5V3Pr .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-uAVPg5V3Pr .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-uAVPg5V3Pr .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-uAVPg5V3Pr .google-map[data-state='loading'] [data-state-details] {
-  display: none;
-}
-@media (max-width: 576px) {
-  .cid-uAVPg5V3Pr .map1 {
-    padding-bottom: 2rem;
-  }
-}
-.cid-uAVB3eDtgr {
+.cid-uAVQ8kxjwv {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background: #9ab8eb;
+  background-color: #9ab8eb;
 }
-.cid-uAVB3eDtgr .mbr-fallback-image.disabled {
+.cid-uAVQ8kxjwv .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uAVB3eDtgr .mbr-fallback-image {
+.cid-uAVQ8kxjwv .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2449,16 +2413,15 @@ strong {
   position: absolute;
   top: 0;
 }
-.cid-uAVB3eDtgr .google-map {
-  height: 35rem;
+.cid-uAVQ8kxjwv .google-map {
+  height: 350px;
   position: relative;
 }
-.cid-uAVB3eDtgr .google-map iframe {
+.cid-uAVQ8kxjwv .google-map iframe {
   height: 100%;
   width: 100%;
-  border-radius: 2rem;
 }
-.cid-uAVB3eDtgr .google-map [data-state-details] {
+.cid-uAVQ8kxjwv .google-map [data-state-details] {
   color: #6b6763;
   height: 1.5em;
   margin-top: -0.75em;
@@ -2469,13 +2432,13 @@ strong {
   top: 50%;
   width: 100%;
 }
-.cid-uAVB3eDtgr .google-map[data-state] {
+.cid-uAVQ8kxjwv .google-map[data-state] {
   background: #e9e5dc;
 }
-.cid-uAVB3eDtgr .google-map[data-state="loading"] [data-state-details] {
+.cid-uAVQ8kxjwv .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-uAVB3eDtgr .mbr-section-title {
+.cid-uAVQ8kxjwv .mbr-section-title {
   color: #d5d07c;
 }
 .cid-ty7l9QbCuX {
