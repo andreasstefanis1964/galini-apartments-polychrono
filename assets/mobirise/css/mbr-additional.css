@@ -1155,7 +1155,7 @@ strong {
   padding: 5px 32px !important;
   border-radius: 100px;
   column-gap: 12px;
-  background: rgba(67, 108, 178, 0.9);
+  background: #436cb2;
 }
 .cid-ty78EPRWLc .navbar-collapse {
   margin-left: auto;
@@ -1838,7 +1838,7 @@ strong {
   padding-top: 0rem;
   padding-bottom: 8rem;
   overflow: hidden;
-  background-color: #9ab8eb;
+  background-color: #095f54;
 }
 .cid-uAW0xw9NOr .mbr-text {
   margin-top: 20px;
@@ -2084,11 +2084,11 @@ strong {
   outline: none;
   transition: all .3s;
   border-radius: 50%;
-  border: 2px solid #003d59;
+  border: 2px solid #d5d07c;
   background-color: transparent;
 }
 .cid-uAW0xw9NOr .embla__button span {
-  color: #003d59;
+  color: #d5d07c;
   font-size: 18px;
 }
 .cid-uAW0xw9NOr .embla__button:disabled {
