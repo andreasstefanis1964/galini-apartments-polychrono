@@ -2106,6 +2106,106 @@ strong {
     top: auto;
   }
 }
+.cid-uAYQb1myQv {
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.cid-uAYQb1myQv .decor-wrap {
+  position: absolute;
+  pointer-events: none;
+}
+@media (max-width: 992px) {
+  .cid-uAYQb1myQv .decor-wrap {
+    width: 60%;
+    height: 50%;
+    border-radius: 0 50% 0 0;
+  }
+}
+.cid-uAYQb1myQv .decor_1 {
+  top: 0;
+  left: 0;
+  width: 85%;
+  height: 100%;
+  border-radius: 0 0 40% 0;
+  background-color: #d6e4ff;
+  z-index: 1;
+}
+.cid-uAYQb1myQv .decor_2 {
+  right: -35%;
+  bottom: 0;
+  width: 200vh;
+  height: 80%;
+  border-radius: 100% 100% 0 0;
+  background-color: #f4f4f2;
+}
+.cid-uAYQb1myQv .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uAYQb1myQv .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uAYQb1myQv .row {
+  position: relative;
+  z-index: 2;
+}
+.cid-uAYQb1myQv .content-wrapper {
+  position: relative;
+  z-index: 1;
+}
+.cid-uAYQb1myQv .content-wrapper .mbr-section-title {
+  margin-bottom: 46px;
+}
+@media (max-width: 992px) {
+  .cid-uAYQb1myQv .content-wrapper .mbr-section-title {
+    margin-bottom: 22px;
+  }
+}
+.cid-uAYQb1myQv .content-wrapper .text-wrapper {
+  padding-right: 32%;
+}
+@media (max-width: 992px) {
+  .cid-uAYQb1myQv .content-wrapper .text-wrapper {
+    padding-right: 0;
+  }
+}
+.cid-uAYQb1myQv .content-wrapper .text-wrapper .mbr-text {
+  margin-bottom: 0;
+}
+.cid-uAYQb1myQv .image-wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+@media (max-width: 992px) {
+  .cid-uAYQb1myQv .image-wrapper {
+    margin-top: 46px;
+  }
+}
+.cid-uAYQb1myQv .image-wrapper img {
+  height: 800px;
+  width: 150%;
+  transform: rotate(-8deg);
+  object-fit: cover;
+}
+@media (max-width: 992px) {
+  .cid-uAYQb1myQv .image-wrapper img {
+    height: 350px;
+    transform: none;
+    width: 100%;
+  }
+}
+.cid-uAYQb1myQv .mbr-section-title {
+  color: #aeac91;
+}
+.cid-uAYQb1myQv .mbr-text {
+  color: #51565c;
+}
 .cid-uAVTbHpLRq {
   padding-top: 45px;
   padding-bottom: 45px;
